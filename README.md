@@ -6,4 +6,4 @@ Most of my projects are game attempts or game-adjacent tools, utility functions,
 
 I'm a big fan of TryHackMe, too, find me on there at:
 
-<script src="https://tryhackme.com/badge/43746"></script>
+<a href="https://tryhackme.com/p/Aquinas"><img src="https://tryhackme-badges.s3.amazonaws.com/Aquinas.png" alt="TryHackMe"></a>

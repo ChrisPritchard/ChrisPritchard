@@ -6,4 +6,6 @@ Most of my projects are game attempts or game-adjacent tools, utility functions,
 
 I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [Aquinas](https://tryhackme.com/p/Aquinas).
 
-Like my stuff and want to encourage me to do more of it? Buy me a coffee! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3AKZ3H)
+Like my stuff and want to encourage me to do more of it? Buy me a coffee! 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3AKZ3H)

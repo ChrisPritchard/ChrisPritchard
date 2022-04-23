@@ -11,5 +11,3 @@ Like my stuff and want to encourage me to do more of it? Buy me a coffee!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3AKZ3H)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPritchard&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChrisPritchard&count_private=true&show_icons=true&theme=chartreuse-dark)

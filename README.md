@@ -2,7 +2,7 @@
 
 I currently work as the Lead Security Engineer at [Flux Federation](https://www.fluxfederation.com/) in Wellington, Aotearoa / New Zealand. My pronouns are He/Him.
 
-Most of my projects are game attempts or game-adjacent tools, utility functions, a few sample/reference projects, and things I've forked to keep a copy of. I mainly code in [F#](https://fsharp.org/)  and [Go](https://golang.org/). Enjoy, and if you have any questions of any nature, feel free to reach out. My personal email address is [chris@grislygrotto.nz](mailto:chris@grislygrotto.nz).
+Most of my projects are game attempts or game-adjacent tools, utility functions, a few sample/reference projects, and things I've forked to keep a copy of. I mainly code in [Rust](https://www.rust-lang.org/), but past favourite languages have included [F#](https://fsharp.org/) and [Go](https://golang.org/). Enjoy, and if you have any questions of any nature, feel free to reach out. My personal email address is [chris@grislygrotto.nz](mailto:chris@grislygrotto.nz).
 
 I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [Aquinas](https://tryhackme.com/p/Aquinas).
 
